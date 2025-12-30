@@ -1,0 +1,1 @@
+#hra kde souperi openai LLMS
