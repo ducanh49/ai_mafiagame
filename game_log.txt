@@ -1,0 +1,24 @@
+=== AI MAFIA GAME LOG ===
+
+DAY - DISCUSSION
+Hanzo: I find Baltazar to be a bit off today; his nerves are showing more than usual. Thomas's confidence seems over the top, which could be a cover for something. Jessica appears calm, but that could also be a facade, so I’m keeping an eye on her too.
+
+Baltazar: I’m keeping a close eye on Thomas. He seemed a bit too eager to lead the discussion yesterday, and that makes me wonder if he’s trying to distract us from something. Jessica has also been acting a little off, so I wouldn’t completely rule her out either.
+
+Thomas: I have a gut feeling about Hanzo. He seems a bit too quiet, which often signifies someone trying to avoid drawing attention to themselves. Maybe we should keep a closer eye on him during our discussions today.
+
+Jessica: I'm a bit wary of Hanzo. He seemed unusually quiet last night, and I noticed he didn’t contribute much during the discussions. It's just a gut feeling, but I have my eye on him.
+
+
+VOTING
+Hanzo votes for: Thomas
+
+Baltazar votes for: Thomas
+
+Thomas votes for: Hanzo
+
+Jessica votes for: Hanzo
+
+
+Thomas was voted out.
+His/Her role was: civilian
