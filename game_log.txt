@@ -1,24 +1,55 @@
 === AI MAFIA GAME LOG ===
 
+NIGHT 1
+Thomas was killed during the night.
+
 DAY - DISCUSSION
-Hanzo: I find Baltazar to be a bit off today; his nerves are showing more than usual. Thomas's confidence seems over the top, which could be a cover for something. Jessica appears calm, but that could also be a facade, so I’m keeping an eye on her too.
+Hanzo: It's still early, but I find Victor's sudden interest in everyone else's actions a bit suspicious. He seems to be trying too hard to divert attention away from himself. I think we should keep an eye on him while gathering more information.
 
-Baltazar: I’m keeping a close eye on Thomas. He seemed a bit too eager to lead the discussion yesterday, and that makes me wonder if he’s trying to distract us from something. Jessica has also been acting a little off, so I wouldn’t completely rule her out either.
+Baltazar: I don't trust anyone yet, but I find it suspicious that Thomas was killed on the first night. It could be a random act, or maybe someone wanted to frame another player. For now, I'd vote None since I don't have enough evidence to point fingers just yet.
 
-Thomas: I have a gut feeling about Hanzo. He seems a bit too quiet, which often signifies someone trying to avoid drawing attention to themselves. Maybe we should keep a closer eye on him during our discussions today.
+Jessica: It's hard to say right now, since we don't have much information. I think we should keep an eye on everyone, but I don't feel strongly suspicious of anyone just yet. None for now seems reasonable.
 
-Jessica: I'm a bit wary of Hanzo. He seemed unusually quiet last night, and I noticed he didn’t contribute much during the discussions. It's just a gut feeling, but I have my eye on him.
+Clara: I really have no idea who to suspect right now since it’s just the first day and we don't have much information. I feel like we should focus on figuring out who might have wanted to hurt Thomas. Maybe we can discuss what everyone was doing last night?
+
+Victor: Well, you know, I just met a guy named Thomas who had a fantastic sense of humor, but I guess he's off telling jokes in the afterlife now. Honestly, I’m not really suspicious of anyone yet; it's too early to tell. But if Clara starts cracking more jokes than me, I might have to keep an eye on her!
 
 
 VOTING
-Hanzo votes for: Thomas
+Hanzo votes for: Victor
 
-Baltazar votes for: Thomas
+Baltazar votes for: Victor
 
-Thomas votes for: Hanzo
+Jessica votes for: None
 
-Jessica votes for: Hanzo
+Clara votes for: None
+
+Victor votes for: None
 
 
-Thomas was voted out.
+Victor was voted out.
 His/Her role was: civilian
+
+NIGHT 2
+Jessica was killed during the night.
+
+DAY - DISCUSSION
+Hanzo: I find it interesting that Jessica was taken out last night. While I don't have concrete evidence, Clara's behavior has seemed a bit off to me; she might be trying to deflect attention from herself. I'm leaning towards voting for her unless someone presents a stronger case.
+
+Baltazar: I'm still trying to piece everything together after Jessica's death. Clara seemed a bit too eager to point fingers yesterday, which makes me wonder about her intentions. I’m leaning towards voting for her, but it’s tough to feel confident with only the three of us left.
+
+Clara: I feel really sad about Jessica's death; it’s so unfair. I don’t have strong suspicions about anyone yet, but I think we should pay close attention to what everyone says. For now, I might just vote "None" since I’m not sure who to trust.
+
+
+VOTING
+Hanzo votes for: Clara
+
+Baltazar votes for: Clara
+
+Clara votes for: None
+
+
+Clara was voted out.
+His/Her role was: civilian
+
+KILLER WINS! Only one civilian remains.
