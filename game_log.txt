@@ -1,55 +1,82 @@
 === AI MAFIA GAME LOG ===
 
 NIGHT 1
-Thomas was killed during the night.
+Clara was killed during the night.
 
 DAY - DISCUSSION
-Hanzo: It's still early, but I find Victor's sudden interest in everyone else's actions a bit suspicious. He seems to be trying too hard to divert attention away from himself. I think we should keep an eye on him while gathering more information.
+Hanzo: I'm not entirely sure who to suspect at this point, but I find it curious that Corleone hasn't said much yet. It could be a strategy to avoid drawing attention, or perhaps he's trying to blend in. For now, I'm leaning towards voting "None," as I think we need more information before making any rash accusations.
 
-Baltazar: I don't trust anyone yet, but I find it suspicious that Thomas was killed on the first night. It could be a random act, or maybe someone wanted to frame another player. For now, I'd vote None since I don't have enough evidence to point fingers just yet.
+Baltazar: I'm feeling pretty uneasy about the whole situation. Clara's death is suspicious, and I don’t have any solid suspects yet, but I’m keeping a close eye on how everyone votes and responds. Right now, I don't have enough information to accuse anyone directly, so I might just vote "None" for Day 1 and see how things unfold.
 
-Jessica: It's hard to say right now, since we don't have much information. I think we should keep an eye on everyone, but I don't feel strongly suspicious of anyone just yet. None for now seems reasonable.
+Thomas: I really don't have enough information yet to suspect anyone solidly, but I find it interesting that Clara died last night. We should pay attention to how everyone votes today, especially if someone tries to shift the blame onto another player without logical reasoning. For now, I'm leaning towards a "None" vote since I'm unsure who to trust.
 
-Clara: I really have no idea who to suspect right now since it’s just the first day and we don't have much information. I feel like we should focus on figuring out who might have wanted to hurt Thomas. Maybe we can discuss what everyone was doing last night?
+Jessica: I’m not really sure who to suspect right now since it’s still early and we don’t have much information. I think we should pay attention to how everyone votes and if anyone accuses others without justification. For now, I feel uncertain about making any accusations myself.
 
-Victor: Well, you know, I just met a guy named Thomas who had a fantastic sense of humor, but I guess he's off telling jokes in the afterlife now. Honestly, I’m not really suspicious of anyone yet; it's too early to tell. But if Clara starts cracking more jokes than me, I might have to keep an eye on her!
+Victor: Well, you know, it’s Day 1, and I’m feeling like a confused cat in a room full of rocking chairs! Clara's gone, which is a bummer, but honestly, I’ve got no solid leads yet. I mean, Hanzo seems a bit too chill about all this, but then again, who wouldn’t want to play it cool after a murder? Maybe I should just kick back and vote "None" because I really have no clue who to suspect!
+
+Elena: I’m feeling a bit uneasy about the whole situation after Clara's death. Right now, I don't have anything concrete, but I’ll be keeping an eye on who everyone votes for and if anyone makes unusual accusations. I guess for now, I’m leaning towards being cautious and not voting for anyone until I gather more information. Voting "None" seems reasonable at this stage.
+
+Marco: Wow, okay! So, Clara's dead—what a bummer! I really have no strong suspicions yet, but I think we should keep an eye on everyone’s voting patterns and accusations. I mean, it’s only Day 1, so it's tough to say, but maybe we should look at who was close to Clara or who seemed too eager to make accusations. What do you all think?
+
+Corleone: I'm feeling a bit uneasy about the dynamics forming here. While I'm not yet sure who to target, I notice that Hanzo hasn't spoken much, which could be suspicious in a game where communication is key. However, with so little information, it’s difficult to draw any solid conclusions—I'm inclined to vote "None" for now and observe how things develop.
 
 
 VOTING
-Hanzo votes for: Victor
+Hanzo votes for: None
 
-Baltazar votes for: Victor
+Baltazar votes for: None
+
+Thomas votes for: None
 
 Jessica votes for: None
 
-Clara votes for: None
-
 Victor votes for: None
 
+Elena votes for: None
 
-Victor was voted out.
-His/Her role was: civilian
+Marco votes for: None
+
+Corleone votes for: None
+
+
+No votes were cast. No one was voted out today.
 
 NIGHT 2
-Jessica was killed during the night.
+Victor was killed during the night.
 
 DAY - DISCUSSION
-Hanzo: I find it interesting that Jessica was taken out last night. While I don't have concrete evidence, Clara's behavior has seemed a bit off to me; she might be trying to deflect attention from herself. I'm leaning towards voting for her unless someone presents a stronger case.
+Hanzo: I find it interesting that Victor was the one who expressed suspicion towards me on Day 1, calling me "too chill" about Clara's death. His death might suggest he was onto something, or it could mean that whoever is behind these killings is trying to frame me. I'm keeping an eye on Corleone, as he also seemed suspicious of my quietness, and now might be trying to divert attention away from himself after Victor's elimination.
 
-Baltazar: I'm still trying to piece everything together after Jessica's death. Clara seemed a bit too eager to point fingers yesterday, which makes me wonder about her intentions. I’m leaning towards voting for her, but it’s tough to feel confident with only the three of us left.
+Baltazar: I’m starting to feel a bit uneasy about Hanzo. He seemed really relaxed yesterday and even pointed fingers at Corleone, but now that Victor's gone, I can't help but wonder if he was trying to shift the blame elsewhere to avoid suspicion himself. It's strange that Victor, who was also cautious, is gone now. I think we should keep a close eye on Hanzo's behavior as we continue.
 
-Clara: I feel really sad about Jessica's death; it’s so unfair. I don’t have strong suspicions about anyone yet, but I think we should pay close attention to what everyone says. For now, I might just vote "None" since I’m not sure who to trust.
+Thomas: I'm really unsettled by Victor's death; it feels like it could be a message directed at the more vocal players. I'm starting to wonder about Hanzo, especially since he was pretty chill and not offering any solid leads on Day 1. His silence could indicate that he's trying to avoid drawing attention to himself after Victor was killed, so I think I might vote for him today.
+
+Jessica: I'm feeling really unsure right now, especially after Victor's death. I did notice that Hanzo was one of the players who seemed a bit too chill on Day 1; he hasn't accused anyone and keeps voting "None," which might be a strategy to avoid drawing attention to himself. But since we have no concrete evidence yet, I'm still hesitant to make any solid accusations.
+
+Elena: I'm really starting to feel uneasy after Victor's death last night. I've noticed that Hanzo and Corleone both leaned towards voting "None" on Day 1, which could indicate they were trying to avoid drawing attention to their actions. Baltazar and Thomas also voted "None," but I can't shake the feeling that one of them might be hiding something, especially since they seemed to express concern about the situation but didn't point fingers at all. I want to keep an eye on Hanzo, though; he's been pretty quiet, and I wonder if he's trying to blend in.
+
+Marco: Wow, another player down? This is getting intense! I feel like we should look at Hanzo—he seemed really laid back about everything on Day 1 and didn’t accuse anyone, which is a bit odd. Plus, his chill vibe feels like he’s trying to blend in without drawing too much attention; maybe he’s hiding something! What do you all think?
+
+Corleone: Given that Victor has been eliminated, we need to analyze the dynamics further. I find it peculiar that both Hanzo and Baltazar have been fairly passive in their voting patterns, leaning towards "None" and showing little initiative to accuse anyone. I suspect Hanzo may be trying to stay under the radar, and I'd recommend keeping a close watch on him as we move forward.
 
 
 VOTING
-Hanzo votes for: Clara
+Hanzo votes for: Baltazar
 
-Baltazar votes for: Clara
+Baltazar votes for: Hanzo
 
-Clara votes for: None
+Thomas votes for: Hanzo
+
+Jessica votes for: Hanzo
+
+Elena votes for: Hanzo
+
+Marco votes for: Hanzo
+
+Corleone votes for: Hanzo
 
 
-Clara was voted out.
-His/Her role was: civilian
+Hanzo was voted out.
+His/Her role was: killer
 
-KILLER WINS! Only one civilian remains.
+Civilians WIN! The killer was VOTED OUT
